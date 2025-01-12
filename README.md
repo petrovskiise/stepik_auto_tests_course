@@ -1,3 +1,3 @@
 # stepik_auto_tests_course
-Добавил ссылку на курс
+Домашние задания к курсу
 https://stepik.org/lesson/187065/
